@@ -63,6 +63,7 @@ export default function App() {
             borderRadius: 12,
             background: "#ffffff",
             boxShadow: "0 10px 20px rgba(0, 0, 0, 0.06)",
+            width: "50%"
           }}
         >
           <h1 style={{ margin: 0, fontSize: 24, lineHeight: 1.4 }}>

@@ -58,7 +58,6 @@ export default function App() {
       <main style={main}>
         <div
           style={{
-            maxWidth: 720,
             padding: "24px",
             border: "1px solid #e5e7eb",
             borderRadius: 12,
